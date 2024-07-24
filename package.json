@@ -1,0 +1,11 @@
+{
+  "name": "bun-script-template",
+  "module": "es2022",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
