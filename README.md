@@ -1,4 +1,4 @@
-# bun-script-template
+# Bun.sh Scripting Template
 
 A simple starter to run any Bun scripts.
 
